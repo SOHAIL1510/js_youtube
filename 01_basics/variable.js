@@ -1,4 +1,3 @@
-console.log("sohail")
 let AccountEmail = "soha98@gmail.com"
 var AccountCity = "nashik"
 let AccountState;
