@@ -24,3 +24,17 @@ console.log(typeof booleanisloggedin)
 //0=>false
 //string=>true
 //""=>false
+//************************************************************OPERATIONS******************************************************** */
+
+let a = 12
+let negval = -a
+console.log(negval)
+
+console.log(1+1)
+console.log("1"+1)
+console.log(1+"1")
+console.log("1"+1+2)
+console.log(1+1+"2")
+// you can also add string using addition operation and using + operaton
+//if the string is used first it will make everything present in the parentheseis acts as an string and for number its vice versa
+
