@@ -35,3 +35,7 @@ else {
 console.log(colour)
 
 
+let my_age = 25
+let result = my_age>=18 ? "adult" : "not adult" 
+console.log(result)
+
