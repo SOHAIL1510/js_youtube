@@ -17,3 +17,4 @@ const profile = {
 
 };
 console.log(typeof profile)
+
